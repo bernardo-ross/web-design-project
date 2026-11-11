@@ -29,6 +29,18 @@ Durante o projeto, trabalhei em diferentes aspectos da construção visual do si
 - Ferramentas de edição e composição de imagens
 - Recursos de vídeo e elementos multimídia
 
+## Visualização do projeto
+
+### Página inicial
+![Página inicial](assets/web-home.png)
+
+### Obras
+![Página de obras](assets/web-obras.png)
+
+### Versão mobile
+![Visualização mobile](assets/mobile-home.png)
+![Visualização mobile](assets/mobile-exposicoes.png)
+
 ## Principais aprendizados
 
 Esse projeto ampliou minha experiência na criação de websites, principalmente na parte visual.
