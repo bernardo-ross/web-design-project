@@ -31,15 +31,25 @@ Durante o projeto, trabalhei em diferentes aspectos da construção visual do si
 
 ## Visualização do projeto
 
-### Página inicial
-![Página inicial](assets/web-home.png)
+### Versão desktop
 
-### Obras
-![Página de obras](assets/web-obras.png)
+**Página inicial**
+
+![Página inicial](web-home.png)
+
+**Página de obras**
+
+![Página de obras](web-obras.png)
 
 ### Versão mobile
-![Visualização mobile](assets/mobile.png)
-![Visualização mobile](assets/mobile-exposicoes.png)
+
+**Página inicial**
+
+![Versão mobile](mobile.png)
+
+**Página de exposições**
+
+![Exposições mobile](mobile-exposicoes.png)
 
 ## Principais aprendizados
 
