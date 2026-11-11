@@ -38,7 +38,7 @@ Durante o projeto, trabalhei em diferentes aspectos da construção visual do si
 ![Página de obras](assets/web-obras.png)
 
 ### Versão mobile
-![Visualização mobile](assets/mobile-home.png)
+![Visualização mobile](assets/mobile.png)
 ![Visualização mobile](assets/mobile-exposicoes.png)
 
 ## Principais aprendizados
